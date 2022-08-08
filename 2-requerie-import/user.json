@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "nombre": "Jose",
+      "canal": "Desarrolador web"
+    },
+    {
+      "nombre": "Pablo",
+      "canal": "Desarrollador web"
+    }
+  ]
+}
